@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @rezavedad
-- 👀 I’m interested in Python and Test Automation.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Reza Vedad.
+- 👀 I’m interested in OOP, Test-Automation, ML, Pychology and Economy.
 - 📫 How to reach me rezavedad@outlook.de
 
 <!---
